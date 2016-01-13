@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h1>Welcome to GitHub Training</h1>
+        <h1>Hi, Welcome to GitHub Training</h1>
         <p>Hello</p>
         <p>sameer</p>
     </body>
