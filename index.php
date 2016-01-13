@@ -12,5 +12,6 @@ and open the template in the editor.
     <body>
         <h1>Welcome to GitHub Training</h1>
         <p>hello</p>
+        <p>sameer</p>
     </body>
 </html>
